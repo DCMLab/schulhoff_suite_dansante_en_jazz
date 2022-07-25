@@ -1,5 +1,11 @@
-# annotation_workflow_template
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+# Overview
+|            file_name            |measures|labels|standard|annotators|reviewers|
+|---------------------------------|-------:|-----:|--------|----------|---------|
+|suite_dansante_en_jazz_1_stomp   |      46|     0|        |          |         |
+|suite_dansante_en_jazz_2_strait  |      77|     0|        |          |         |
+|suite_dansante_en_jazz_3_waltz   |      70|     0|        |          |         |
+|suite_dansante_en_jazz_4_tango   |      40|     0|        |          |         |
+|suite_dansante_en_jazz_5_slow    |      41|     0|        |          |         |
+|suite_dansante_en_jazz_6_fox-trot|      50|     0|        |          |         |
