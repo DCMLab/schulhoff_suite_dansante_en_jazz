@@ -6749,10 +6749,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>A.</name>
-            </Harmony>
           <Rest>
             <offset x="0" y="175"/>
             <visible>0</visible>
@@ -6760,7 +6756,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II+43{</name>
+            <name>A.II+43{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
