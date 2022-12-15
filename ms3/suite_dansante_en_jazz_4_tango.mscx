@@ -9,11 +9,11 @@
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <evenHeaderL/>
-      <oddHeaderR/>
+      <evenHeaderL></evenHeaderL>
+      <oddHeaderR></oddHeaderR>
       <evenFooterC>$p
 </evenFooterC>
-      <oddFooterC/>
+      <oddFooterC></oddFooterC>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -108,6 +108,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -129,7 +133,7 @@
             <tempo>1.8</tempo>
             <followText>1</followText>
             <offset x="0.511243" y="-4.25606"/>
-            <text><b></b><font size="8"></font>M. M.<font size="12"></font>  = 108</text>
+            <text><b></b><font size="8"/>M. M.<font size="12"/> <font face="ScoreText"/><font face="Edwin"/> = 108</text>
             </Tempo>
           <Dynamic>
             <subtype>mp</subtype>
@@ -6425,8 +6429,15 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
+            <minDistance>-4.04459</minDistance>
+            <offset x="0.113615" y="2.42899"/>
             <text>stacc.</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>g.V7(9){</name>
+            <offset x="0" y="4.74976"/>
+            </Harmony>
           <Beam>
             <Fragment>
               <y1>-3.83817</y1>
@@ -6587,6 +6598,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6633,6 +6648,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(6)/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -6659,6 +6678,10 @@
       <Measure>
         <vspacerUp>6.83551</vspacerUp>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(11)/bV|HC}</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -6728,6 +6751,10 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>g.V7(9){</name>
+            </Harmony>
           <Beam>
             <Fragment>
               <y1>7</y1>
@@ -6830,6 +6857,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(11)/VI</name>
+            </Harmony>
           <Beam>
             <Fragment>
               <y1>6.93183</y1>
@@ -6893,6 +6924,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(139)/VI</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -6920,6 +6955,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2(9)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6974,6 +7013,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(b5)/#IV</name>
+            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -6994,6 +7037,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(b5)/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -7027,6 +7074,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/VI</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7056,6 +7107,10 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(b5)/V</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -7120,6 +7175,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7|HC}</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -7178,6 +7237,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)/IV{</name>
+            </Harmony>
           <Beam>
             <Fragment>
               <y1>-2.18677</y1>
