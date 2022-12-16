@@ -133,7 +133,7 @@
             <tempo>1.8</tempo>
             <followText>1</followText>
             <offset x="0.511243" y="-4.25606"/>
-            <text><b></b><font size="8"/>M. M.<font size="12"/> <font face="ScoreText"/><font face="Edwin"/> = 108</text>
+            <text><b></b><font size="8"></font>M. M.<font size="12"></font> <font face="ScoreText"></font><font face="Edwin"></font> = 108</text>
             </Tempo>
           <Dynamic>
             <subtype>mp</subtype>
@@ -1377,12 +1377,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.43999" y="-1.0052"/>
-                <off2 x="2.07363" y="0"/>
-                <minDistance>-4.28165</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3974,10 +3968,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.71574" y="-0.102249"/>
-                  <offset x="0.408994" y="-1.32923"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4000,11 +3990,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.22698" y="-3.40234"/>
-                <off2 x="-0.0896592" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4545,11 +4530,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.204497" y="-1.14589e-15"/>
-                  <o3 x="0.613491" y="-0.102249"/>
-                  <o4 x="-0.306746" y="-0.408994"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -4561,12 +4541,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.102249" y="2.55621"/>
-                  <o2 x="-0.102249" y="0.204497"/>
-                  <o4 x="-1.53373" y="3.1697"/>
-                  <offset x="0.306746" y="-2.45396"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -5905,9 +5879,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-0.71574"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5940,13 +5911,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.613491" y="1.22698"/>
-                  <o2 x="-0.102249" y="-2.14722"/>
-                  <o3 x="0" y="-2.14722"/>
-                  <o4 x="1.22698" y="2.45396"/>
-                  <offset x="-0.102249" y="-7.25964"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6135,12 +6099,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.84898" y="-0.493957"/>
-                <off2 x="2.07363" y="0"/>
-                <minDistance>-999</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6311,12 +6269,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-2.66023" y="0.992551"/>
-                <off2 x="2.07363" y="0"/>
-                <minDistance>-999</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6435,7 +6387,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.V7(9){</name>
+            <name>D.IM7(9){</name>
             <offset x="0" y="4.74976"/>
             </Harmony>
           <Beam>
@@ -6530,6 +6482,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(139)/IV</name>
+            </Harmony>
           <Beam>
             <Fragment>
               <y1>7</y1>
@@ -6600,7 +6556,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/iv</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6650,7 +6606,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/V</name>
+            <name>V7(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6680,7 +6636,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(11)/bV|HC}</name>
+            <name>I(11)/bV|HC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6753,7 +6709,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.V7(9){</name>
+            <name>IM7(9){</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -6859,7 +6815,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(11)/VI</name>
+            <name>V7(11)/bII</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -6926,7 +6882,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(139)/VI</name>
+            <name>V(139)/bII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6957,7 +6913,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(9)</name>
+            <name>V2(9)/IV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7015,7 +6971,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)/#IV</name>
+            <name>Fr7</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -7039,7 +6995,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)/V</name>
+            <name>Fr7/IV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7076,7 +7032,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VI</name>
+            <name>V7/bII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7109,18 +7065,12 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)/V</name>
+            <name>V7(b5)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="2.06802" y="-2.55877"/>
-                <off2 x="-1.70705" y="0"/>
-                <minDistance>-2.53254</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7133,13 +7083,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.340828" y="0.613491"/>
-                  <o2 x="-0.886154" y="3.20379"/>
-                  <o3 x="-1.15882" y="2.31763"/>
-                  <o4 x="-2.24947" y="1.29515"/>
-                  <offset x="-0.272663" y="3.27195"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7177,7 +7120,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC}</name>
+            <name>I7|IAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -7983,11 +7926,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.17647" y="-5.22038"/>
-                <off2 x="-8.70755" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8670,12 +8608,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.71574" y="2.39148"/>
-                <off2 x="-1.44407" y="0"/>
-                <minDistance>-999</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9240,13 +9172,6 @@
                   <o3 x="-1.79045e-17" y="2.65846"/>
                   <o4 x="0" y="6.5439"/>
                   </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="-1.12473" y="-0.102249"/>
-                  <o2 x="-0.306746" y="2.35172"/>
-                  <o3 x="-0.306746" y="2.35172"/>
-                  <o4 x="-0.204497" y="0.613491"/>
-                  <offset x="-0.408994" y="6.23716"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9357,12 +9282,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.102249" y="2.86296"/>
-                  <o3 x="0.102249" y="2.86296"/>
-                  <o4 x="-0.613491" y="-1.32923"/>
-                  <offset x="0.306746" y="8.17988"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9776,12 +9695,6 @@
                   <o4 x="-1.32923" y="2.55622"/>
                   <offset x="0" y="-0.920237"/>
                   </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="-0.306746" y="0.408994"/>
-                  <o2 x="-0.204497" y="2.04497"/>
-                  <o3 x="0" y="2.24947"/>
-                  <offset x="-1.32923" y="6.33941"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9905,10 +9818,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.511243" y="-0.613491"/>
-                  <o3 x="0.511243" y="-0.613491"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10206,12 +10115,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="2.93713" y="-1.20918"/>
-                <off2 x="-4.87675" y="0"/>
-                <minDistance>-4.35907</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10328,10 +10231,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-8.89562" y="-0.511243"/>
-                  <offset x="-0.920237" y="5.31692"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10369,12 +10268,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="2.57926" y="-1.98271"/>
-                <off2 x="-3.95652" y="0"/>
-                <minDistance>-3.55503</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
