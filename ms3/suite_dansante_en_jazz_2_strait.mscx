@@ -42,6 +42,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/5c0b4b0a-eee3-491c-a28f-4aff2074743d</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Anna Yuferova</metaTag>
@@ -12503,13 +12504,13 @@
             </Chord>
           </voice>
         <voice>
-          <Fermata>
-            <subtype>fermataBelow</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(13#11b9)/vi}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataBelow</subtype>
+            </Fermata>
           <Chord>
             <durationType>whole</durationType>
             <Note>
