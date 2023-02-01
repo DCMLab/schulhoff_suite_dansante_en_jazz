@@ -8115,6 +8115,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>e.V(4)</name>
+            <offset x="0.1" y="3.5"/>
             </Harmony>
           </voice>
         </Measure>
