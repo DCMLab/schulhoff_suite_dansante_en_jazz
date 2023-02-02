@@ -7066,7 +7066,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)</name>
+            <name>V65(b5)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -7121,7 +7121,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I7|IAC}</name>
+            <name>I7|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -8687,7 +8687,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)</name>
+            <name>V65(b5)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -8733,7 +8733,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I7|IAC}</name>
+            <name>I7|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -10286,7 +10286,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)</name>
+            <name>V65(b5)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -10332,7 +10332,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I7|IAC}</name>
+            <name>I7|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -10435,7 +10435,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)</name>
+            <name>V65(b5)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -10481,7 +10481,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I7|IAC}</name>
+            <name>I7|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
