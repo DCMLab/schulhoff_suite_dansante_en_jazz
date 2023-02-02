@@ -34,6 +34,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/f3bc4a4f-0ba2-45e2-91c5-eff19880e6b1</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Anna Yuferova</metaTag>
@@ -136,7 +137,7 @@
             <tempo>3.2000000000000002</tempo>
             <followText>1</followText>
             <offset x="1.53373" y="-4.18534"/>
-            <text><b></b><font size="8"/>M. M. <font size="12"/><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            <text><b></b><font size="8"></font>M. M. <font size="12"></font><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
             </Tempo>
           <Dynamic>
             <subtype>mf</subtype>
