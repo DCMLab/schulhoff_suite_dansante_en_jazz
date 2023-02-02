@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -10,9 +10,9 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <headerOddEven>0</headerOddEven>
-      <evenHeaderL/>
+      <evenHeaderL></evenHeaderL>
       <evenHeaderC>$p</evenHeaderC>
-      <oddHeaderR/>
+      <oddHeaderR></oddHeaderR>
       <footerOddEven>0</footerOddEven>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
