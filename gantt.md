@@ -1,1 +1,2 @@
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/suite_dansante_en_jazz_1_stomp.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/suite_dansante_en_jazz_2_strait.html" height="600" width="100%"></iframe>
