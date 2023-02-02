@@ -22,12 +22,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
+    <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1931</metaTag>
     <metaTag name="composed_start">1931</metaTag>
     <metaTag name="composer">Erwin Schulhoff</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-07-13</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Suite_dansante_en_Jazz_(Schulhoff%2C_Erwin)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">5</metaTag>
@@ -6784,13 +6786,13 @@
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-6.32694"/>
                 <off2 x="0" y="0"/>
                 <minDistance>0.591006</minDistance>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
