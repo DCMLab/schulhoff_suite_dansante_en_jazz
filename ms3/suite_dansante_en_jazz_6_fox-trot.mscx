@@ -6838,7 +6838,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>E.IM7(13#11)</name>
+            <name>E.IM7(13#11){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
