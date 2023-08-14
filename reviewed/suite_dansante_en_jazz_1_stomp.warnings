@@ -4,23 +4,23 @@ Warnings encountered during the last execution of ms3 review
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 7: 42 is not a valid chord inversion.
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
-	MC 19: 42 is not a valid chord inversion.
-WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
-	MC 8: 42 is not a valid chord inversion.
-WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 18: 42 is not a valid chord inversion.
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 20: 42 is not a valid chord inversion.
+WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
+	MC 8: 42 is not a valid chord inversion.
+WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
+	MC 19: 42 is not a valid chord inversion.
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 7: 42 is not a valid chord inversion.
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
-	MC 19: 42 is not a valid chord inversion.
-WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
-	MC 8: 42 is not a valid chord inversion.
-WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 18: 42 is not a valid chord inversion.
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	MC 20: 42 is not a valid chord inversion.
+WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
+	MC 8: 42 is not a valid chord inversion.
+WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
+	MC 19: 42 is not a valid chord inversion.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '1/4', 'bIII+43(9)') ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp --
 	The label 'bIII+43(9)' in m. 7, onset 1/4 (MC 7, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of E.I, it expresses the scale degrees ('7', 'b2', 'b3', '5') [('D#', 'F', 'G', 'B')] plus the added ('4',) [('A',)].
