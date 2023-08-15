@@ -10164,7 +10164,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7/bIII</name>
+            <name>V43(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10190,10 +10190,6 @@
       <Measure>
         <vspacerFixed>8.98445</vspacerFixed>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(13)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -10701,7 +10697,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/bII</name>
+            <name>V7(#14#11b9)/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11110,7 +11106,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/iii|HC}</name>
+            <name>V7(139)/bIV|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
