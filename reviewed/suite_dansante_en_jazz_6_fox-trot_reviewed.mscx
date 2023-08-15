@@ -10,9 +10,9 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <headerOddEven>0</headerOddEven>
-      <evenHeaderL></evenHeaderL>
+      <evenHeaderL/>
       <evenHeaderC>$p</evenHeaderC>
-      <oddHeaderR></oddHeaderR>
+      <oddHeaderR/>
       <footerOddEven>0</footerOddEven>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
@@ -4790,8 +4790,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <autoplace>0</autoplace>
               <color r="255" g="0" b="0" a="255"/>
+              <autoplace>0</autoplace>
               <Accidental>
                 <subtype>accidentalDoubleSharp</subtype>
                 </Accidental>
@@ -5040,8 +5040,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <autoplace>0</autoplace>
               <color r="255" g="0" b="0" a="255"/>
+              <autoplace>0</autoplace>
               <Accidental>
                 <subtype>accidentalDoubleSharp</subtype>
                 </Accidental>
@@ -7514,7 +7514,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(13)</name>
+            <name>ii7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7540,6 +7540,10 @@
       <Measure>
         <vspacerFixed>13.5287</vspacerFixed>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(13)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7630,7 +7634,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/bIV</name>
+            <name>V7(9)/iii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -9356,7 +9360,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(9)/V</name>
+            <name>V7(b13b10)/bI</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -10164,7 +10168,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(13)</name>
+            <name>ii7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10190,6 +10194,10 @@
       <Measure>
         <vspacerFixed>8.98445</vspacerFixed>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(13)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -10697,7 +10705,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(#14#11b9)/bII</name>
+            <name>V7(b9)/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11106,7 +11114,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/bIV|HC}</name>
+            <name>V7(139)/iii|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
