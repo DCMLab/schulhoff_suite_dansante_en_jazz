@@ -10,9 +10,9 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <headerOddEven>0</headerOddEven>
-      <evenHeaderL/>
+      <evenHeaderL></evenHeaderL>
       <evenHeaderC>$p</evenHeaderC>
-      <oddHeaderR/>
+      <oddHeaderR></oddHeaderR>
       <footerOddEven>0</footerOddEven>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
@@ -4790,8 +4790,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <autoplace>0</autoplace>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalDoubleSharp</subtype>
                 </Accidental>
@@ -5040,8 +5040,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <autoplace>0</autoplace>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalDoubleSharp</subtype>
                 </Accidental>
@@ -7514,7 +7514,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7/bIII</name>
+            <name>V43(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7540,10 +7540,6 @@
       <Measure>
         <vspacerFixed>13.5287</vspacerFixed>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(13)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
