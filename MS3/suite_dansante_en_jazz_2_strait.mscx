@@ -19,7 +19,7 @@
       <showHeader>0</showHeader>
       <headerOddEven>0</headerOddEven>
       <oddHeaderC>$n</oddHeaderC>
-      <oddHeaderR/>
+      <oddHeaderR></oddHeaderR>
       <footerOddEven>0</footerOddEven>
       <oddFooterC>$N
 </oddFooterC>
