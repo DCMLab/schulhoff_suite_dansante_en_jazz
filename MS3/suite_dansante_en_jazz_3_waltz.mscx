@@ -6777,7 +6777,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(9)/bIII</name>
+            <name>V2(9)/bIII</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6793,7 +6793,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(9)/bII</name>
+            <name>V2(9)/bII</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6884,7 +6884,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio42(b9)</name>
+            <name>iio2(b9)</name>
             </Harmony>
           <Beam>
             <Fragment>
