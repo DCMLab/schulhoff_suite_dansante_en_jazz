@@ -36,6 +36,7 @@
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Stomp</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/2bfa37b6-bc13-4e9c-9bfc-ea1006c0afcb</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>

@@ -36,6 +36,7 @@
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">Slow</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/3dbf5c4a-ef31-4a1c-8f0f-abe48c7e1a7d</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>

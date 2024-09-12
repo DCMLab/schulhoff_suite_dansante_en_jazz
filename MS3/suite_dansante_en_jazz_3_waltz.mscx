@@ -35,6 +35,7 @@
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Waltz</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/876be800-80fe-4370-95e0-73ea0db26526</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>

@@ -34,6 +34,7 @@
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">Tango</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/44b22f8e-949f-464d-b5b1-ee1bd5eb661c</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>

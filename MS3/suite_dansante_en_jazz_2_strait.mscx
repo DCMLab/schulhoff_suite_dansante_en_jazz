@@ -43,6 +43,7 @@
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Strait</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/5c0b4b0a-eee3-491c-a28f-4aff2074743d</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
