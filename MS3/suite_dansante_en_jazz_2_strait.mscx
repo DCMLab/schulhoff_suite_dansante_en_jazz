@@ -7815,7 +7815,6 @@
       <Measure>
         <irregular>1</irregular>
         <stretch>1.4</stretch>
-        <noOffset>38</noOffset>
         <vspacerDown>7.9032</vspacerDown>
         <voice>
           <Spanner type="Volta">
