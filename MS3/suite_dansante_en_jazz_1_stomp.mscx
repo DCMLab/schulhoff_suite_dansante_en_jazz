@@ -12,8 +12,8 @@
       <lastSystemFillLimit>1</lastSystemFillLimit>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <evenHeaderL/>
-      <oddHeaderR/>
+      <evenHeaderL></evenHeaderL>
+      <oddHeaderR></oddHeaderR>
       <evenFooterC>$p</evenFooterC>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
@@ -7153,7 +7153,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr42/V</name>
+            <name>Fr2/V</name>
             </Harmony>
           </voice>
         </Measure>
@@ -7161,7 +7161,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/bI</name>
+            <name>V2/bI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7631,7 +7631,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(96)/bI</name>
+            <name>V2(96)/bI</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -7693,7 +7693,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(96)/bI</name>
+            <name>V2(96)/bI</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
