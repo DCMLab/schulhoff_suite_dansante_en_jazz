@@ -7606,7 +7606,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(96)/bI</name>
+            <name>V2(96)/bI</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -7661,7 +7661,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(96)/bI</name>
+            <name>V2(96)/bI</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
