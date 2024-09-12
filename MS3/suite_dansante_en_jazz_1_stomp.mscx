@@ -12,8 +12,8 @@
       <lastSystemFillLimit>1</lastSystemFillLimit>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <evenHeaderL></evenHeaderL>
-      <oddHeaderR></oddHeaderR>
+      <evenHeaderL/>
+      <oddHeaderR/>
       <evenFooterC>$p</evenFooterC>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
@@ -22,6 +22,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q89540</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1931</metaTag>
@@ -125,18 +126,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="10"></font>A mon bien cher ami HENRI GIL-MARCHEX
-<b><font size="20"></font>SUITE DANSANTE EN JAZZ</b></text>
+          <text>Suite dansante en jazz, WV 98</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-3.39976" y="17.647"/>
-          <text>STOMP</text>
+          <text>1. Stomp</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="1.07361" y="4.0192"/>
-          <text>EDWIN SCHULHOFF (1931)</text>
+          <text>Erwin Schulhoff</text>
           </Text>
         </VBox>
       <Measure>

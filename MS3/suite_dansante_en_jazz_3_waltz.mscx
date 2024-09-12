@@ -10,8 +10,8 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <headerOddEven>0</headerOddEven>
-      <evenHeaderL></evenHeaderL>
-      <oddHeaderR></oddHeaderR>
+      <evenHeaderL/>
+      <oddHeaderR/>
       <footerOddEven>0</footerOddEven>
       <evenFooterC>$p</evenFooterC>
       <oddFooterC>$p</oddFooterC>
@@ -21,6 +21,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q89540</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1931</metaTag>
@@ -123,7 +124,15 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>WALTZ</text>
+          <text>Suite dansante en jazz, WV 98</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Waltz</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Erwin Schulhoff</text>
           </Text>
         </VBox>
       <Measure>
