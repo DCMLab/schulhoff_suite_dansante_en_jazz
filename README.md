@@ -11,4 +11,4 @@
 |suite_dansante_en_jazz_6_fox-trot|      50|    53|2.3.0   |Amelia Brey|DK       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
