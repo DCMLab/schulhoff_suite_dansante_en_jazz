@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/schulhoff_suite_dansante_en_jazz/introduction).
 
-# Erwin Schulhoff, Suite dansante en jazz
+# Erwin Schulhoff – Suite dansante en jazz
 
 Austro-Czech composer Erwin Schulhoff had visions of a musical revolution. Inspired both by the absurdist aesthetic theories of Dadaism and by the utopian social order promised by Communism, Schulhoff drew on dance forms and the language of American jazz, promising a "complete escape from imperialistic tonality and rhythm." Schulhoff's work was heavily censored by the Nazi regime and is rarely performed even today. In these annotations, it is notable how Schulhoff uses an equalizing perpetual dissonance, frequently in the form of a long succession of dissonated secondary dominants to tonics that never appear, to escape the hierarchic obligation of tonal harmony to resolve to the tonic triad. This technique is an alternate approach to "emancipating the dissonance," to use Schoenberg's phrase, which is nonetheless completely compatible with familiar sonorities.
 
