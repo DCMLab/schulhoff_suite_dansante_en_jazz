@@ -10,9 +10,9 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <headerOddEven>0</headerOddEven>
-      <evenHeaderL></evenHeaderL>
+      <evenHeaderL/>
       <evenHeaderC>$p</evenHeaderC>
-      <oddHeaderR></oddHeaderR>
+      <oddHeaderR/>
       <footerOddEven>0</footerOddEven>
       <oddFooterC>$p</oddFooterC>
       <Spatium>1.75</Spatium>
@@ -21,6 +21,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q89540</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1931</metaTag>
@@ -34,6 +35,7 @@
     <metaTag name="movementNumber">6</metaTag>
     <metaTag name="movementTitle">Fox-trot</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/f3bc4a4f-0ba2-45e2-91c5-eff19880e6b1</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
@@ -123,7 +125,15 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>FOX-TROT</text>
+          <text>Suite dansante en jazz, WV 98</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>6. Fox-trot</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Erwin Schulhoff</text>
           </Text>
         </VBox>
       <Measure>

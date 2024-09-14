@@ -37,5 +37,5 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 36	36	140	140	4.0	0	2/2	1	0							37
 37	37	144	144	4.0	0	2/2	1	0							38, 39
 38	38		148	4.0	0	2/2	1	0	1					end	2
-39	76	148	152	4.0	0	2/2	1	0	2	38	1				40
-40	77	152	156	4.0	0	2/2	1	0					section	lastMeasure	-1
+39	38	148	152	4.0	0	2/2	1	0	2		1				40
+40	39	152	156	4.0	0	2/2	1	0					section	lastMeasure	-1

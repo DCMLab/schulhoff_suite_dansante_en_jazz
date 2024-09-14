@@ -22,8 +22,10 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
+    <metaTag name="P86 (composer)">Q89540</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1931</metaTag>
     <metaTag name="composed_start">1931</metaTag>
     <metaTag name="composer">Erwin Schulhoff</metaTag>
@@ -35,6 +37,7 @@
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">Slow</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/3dbf5c4a-ef31-4a1c-8f0f-abe48c7e1a7d</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/268137</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
@@ -124,7 +127,15 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>SLOW</text>
+          <text>Suite dansante en jazz, WV 98</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>5. Slow</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Erwin Schulhoff</text>
           </Text>
         </VBox>
       <Measure>
