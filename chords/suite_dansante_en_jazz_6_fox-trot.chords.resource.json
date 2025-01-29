@@ -156,17 +156,17 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Ottava:8va",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "HP2YeU8iocn1MQ",
-    "filepath": "chords/HP2YeU8iocn1MQ.schema.yaml",
+    "identifier": "UfcRP-yBtcz4ow",
+    "filepath": "chords/UfcRP-yBtcz4ow.schema.yaml",
     "used_in": "suite_dansante_en_jazz_6_fox-trot"
   },
   "creator": {
@@ -179,8 +179,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "048031b9a2b2377ed3df92cfa183ebaaf3c729e3",
-  "git_tag": "v2.0-13-g048031b"
+  "git_revision": "c6e7577766a38ce2ff56b837cb1ca24ded68b487",
+  "git_tag": "v2.0-18-gc6e7577"
 }
