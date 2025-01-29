@@ -7127,7 +7127,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVM7(^#4)/V</name>
+            <name>bVM7(#4)/V</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8298,7 +8298,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII7(^#4)}</name>
+            <name>bII7(#4)}</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
