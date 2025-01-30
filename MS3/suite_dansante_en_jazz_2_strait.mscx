@@ -10569,7 +10569,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(b106){</name>
+            <name>IM7(+6b32)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10628,7 +10628,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/#VI</name>
+            <name>bIV7(+2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
