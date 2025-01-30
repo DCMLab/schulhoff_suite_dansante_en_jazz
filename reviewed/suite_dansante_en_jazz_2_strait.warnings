@@ -1,14 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '0', '#VIM7(1311)') ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_2_strait
-	The label '#VIM7(1311)' in m. 3, onset 0 (MC 3, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of e.i, it expresses the scale degrees
-	('#6', '#1', '#3', '#5') [('C#', 'E#', 'G#', 'B#')] plus the added ('4', '2') [('A', 'F#')].
-	The corresponding score segment has 1 within-label and 20 out-of-label note onsets,
-	a ratio of 0.9523809523809523 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
-	by a free-text comment in subsequent lines starting with a space or tab.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '0', '#VIM7(13119)') ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_2_strait
 	The label '#VIM7(13119)' in m. 5, onset 0 (MC 5, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of e.i, it expresses the scale degrees
