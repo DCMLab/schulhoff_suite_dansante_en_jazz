@@ -7401,7 +7401,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7(+4)</name>
+            <name>bvi%7(+b4)</name>
             </Harmony>
           <Chord>
             <offset x="1.2" y="0"/>
@@ -7516,7 +7516,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7(139)/vi|IAC}</name>
+            <name>i7(+96b4)/bV|HC}</name>
             </Harmony>
           <Beam>
             <Fragment>
