@@ -10962,7 +10962,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11068,7 +11068,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/#VI</name>
+            <name>bIV7(+642)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
