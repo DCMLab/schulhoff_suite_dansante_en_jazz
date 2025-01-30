@@ -9,11 +9,11 @@
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <evenHeaderL/>
-      <oddHeaderR/>
+      <evenHeaderL></evenHeaderL>
+      <oddHeaderR></oddHeaderR>
       <evenFooterC>$p
 </evenFooterC>
-      <oddFooterC/>
+      <oddFooterC></oddFooterC>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -6649,7 +6649,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(11)/bV|HC}</name>
+            <name>bV7(+9#52)|HC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
