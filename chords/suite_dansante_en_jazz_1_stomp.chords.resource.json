@@ -164,11 +164,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -177,8 +177,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "iRsPpiYCjL16ag",
-    "filepath": "chords/iRsPpiYCjL16ag.schema.yaml",
+    "identifier": "r8oKqZvhJtCGAA",
+    "filepath": "chords/r8oKqZvhJtCGAA.schema.yaml",
     "used_in": "suite_dansante_en_jazz_1_stomp"
   },
   "creator": {
@@ -193,6 +193,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "fa5003847c354244e911f015cc865670230671b8",
-  "git_tag": "v2.0-20-gfa50038"
+  "git_revision": "ae1301526b0e22f215fb0d911bc687257e14f684",
+  "git_tag": "v2.0-22-gae13015"
 }

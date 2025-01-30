@@ -7904,7 +7904,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V+7/vi</name>
+            <name>bIV7(#5)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -7918,6 +7918,10 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V+7/vi</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
