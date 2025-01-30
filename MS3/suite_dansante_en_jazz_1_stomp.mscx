@@ -7905,6 +7905,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIV7(#5)</name>
+            <offset x="-0.943832" y="4.22205"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -7920,7 +7921,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V+7/vi</name>
+            <name>bVI(+#64b2)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8213,7 +8214,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII7(6#52)</name>
+            <name>bIII7(+6#52)/bI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

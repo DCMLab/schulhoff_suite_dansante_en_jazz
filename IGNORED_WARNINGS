@@ -1,3 +1,6 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 23, '7/8', 'bIV7(#5)') ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_1_stomp
+        The label 'bIV7(#5)' works when considering the previous two 8th notes in the RH.
+
 VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 68) ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_3_waltz -- /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/ms3/bs4_measures.py (line 846) treat_group():
 	Volta group of MC 68 contains voltas with different lengths: [1, 3] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.
 
