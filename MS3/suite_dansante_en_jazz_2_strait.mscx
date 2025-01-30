@@ -10516,7 +10516,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/#VI</name>
+            <name>bIV7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
