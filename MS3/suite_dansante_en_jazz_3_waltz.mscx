@@ -917,15 +917,10 @@
               <diagonal>1</diagonal>
               <lineWidth>0.14641</lineWidth>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="1.53148" y="1.49622"/>
                 <off2 x="-6.56095" y="5.1806"/>
                 <minDistance>-0.568393</minDistance>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="1"/>
-                <off2 x="0" y="0"/>
                 </Segment>
               </TextLine>
             <next>
@@ -7032,7 +7027,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(9)/ii</name>
+            <name>v6(#4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
