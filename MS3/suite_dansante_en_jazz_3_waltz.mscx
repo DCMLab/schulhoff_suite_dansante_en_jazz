@@ -7534,7 +7534,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(13)/iii|HC}</name>
+            <name>bi7(#5+#3)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7628,7 +7628,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(#119)/vi{</name>
+            <name>bIV7(b9^b6^4){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7768,7 +7768,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/ii</name>
+            <name>IV7(#52)/bIV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7833,7 +7833,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(#119)/vii</name>
+            <name>V7(#119)/bI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8265,7 +8265,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(#8)/vi</name>
+            <name>V7(^#8)/bI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
