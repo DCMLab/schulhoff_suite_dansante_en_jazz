@@ -1,4 +1,4 @@
-mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	tempo_visible	slur	TextLine	crescendo_hairpin
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	tempo_visible	slur	crescendo_hairpin	TextLine
 1	1	0	0	0.0		0	0	Tempo	2/2	1	1	0							M. M.𝅘𝅥 = 80	80.0	1.0			
 1	1	0	0	0.0		0	0	Dynamic	2/2	1	1	0				mp								
 1	1	0	0	2.0		0	0	Chord	2/2	1	1	1/2	1/2	1	0							0		
@@ -81,8 +81,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 7	7	25	25	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	76									
 7	7	26	26	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	77									
 7	7	27	27	1.0		3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	78									
-8	8	28	28	0.0		0	0	Spanner	2/2	1	1	0												0
-8	8	28	28	4.0		0	0	Chord	2/2	1	1	1	1	1	79									0
+8	8	28	28	0.0		0	0	Spanner	2/2	1	1	0											0	
+8	8	28	28	4.0		0	0	Chord	2/2	1	1	1	1	1	79								0	
 8	8	28	28	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	80									
 8	8	29	29	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	81									
 8	8	30	30	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	82									
@@ -176,8 +176,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 15	15	57	57	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	168									
 15	15	58	58	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	169									
 15	15	59	59	1.0		3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	170									
-16	16	60	60	0.0		0	0	Spanner	2/2	1	1	0												1
-16	16	60	60	4.0		0	0	Chord	2/2	1	1	1	1	1	171									1
+16	16	60	60	0.0		0	0	Spanner	2/2	1	1	0											1	
+16	16	60	60	4.0		0	0	Chord	2/2	1	1	1	1	1	171								1	
 16	16	60	60	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	172									
 16	16	61	61	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	173									
 16	16	62	62	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	174							14		
@@ -226,12 +226,12 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 19	19	74	74	1.0		1/2	1/2	Chord	2/2	2	2	1/4	1/4	1	214									
 19	19	75	75	1.0		3/4	3/4	Chord	2/2	2	2	1/4	1/4	1	215									
 20	20	76	76	4.0		0	0	Chord	2/2	1	1	1	1	1	216							19		
-20	20	157/2	157/2	0.0		5/8	5/8	Spanner	2/2	1	1	0												2
-20	20	76	76	0.25		0	0	Chord	2/2	1	2	1/16	1/16	1	217									2
-20	20	305/4	305/4	0.75		1/16	1/16	Chord	2/2	1	2	3/16	1/8	3/2	218									2
-20	20	77	77	1.0		1/4	1/4	Chord	2/2	1	2	1/4	1/4	1	219									2
-20	20	157/2	157/2	1.0		5/8	5/8	Chord	2/2	1	2	1/4	1/4	1	220		articAccentBelow					21		2
-20	20	159/2	159/2	0.5		7/8	7/8	Chord	2/2	1	2	1/8	1/8	1	221									2
+20	20	157/2	157/2	0.0		5/8	5/8	Spanner	2/2	1	1	0											2	
+20	20	76	76	0.25		0	0	Chord	2/2	1	2	1/16	1/16	1	217								2	
+20	20	305/4	305/4	0.75		1/16	1/16	Chord	2/2	1	2	3/16	1/8	3/2	218								2	
+20	20	77	77	1.0		1/4	1/4	Chord	2/2	1	2	1/4	1/4	1	219								2	
+20	20	157/2	157/2	1.0		5/8	5/8	Chord	2/2	1	2	1/4	1/4	1	220		articAccentBelow					21	2	
+20	20	159/2	159/2	0.5		7/8	7/8	Chord	2/2	1	2	1/8	1/8	1	221								2	
 20	20	76	76	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	222									
 20	20	77	77	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	223									
 20	20	157/2	157/2	1.0		5/8	5/8	Chord	2/2	2	1	1/4	1/4	1	224		articAccentBelow					22		
@@ -276,12 +276,12 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 24	24	92	92	0.3333333333333333		0	0	Chord	2/2	1	1	1/12	1/8	2/3	261							26		
 24	24	277/3	277/3	0.3333333333333333		1/12	1/12	Chord	2/2	1	1	1/12	1/8	2/3	262		articTenutoStaccatoAbove					26		
 24	24	278/3	278/3	0.3333333333333333		1/6	1/6	Chord	2/2	1	1	1/12	1/8	2/3	263		articTenutoStaccatoAbove					26		
-24	24	93	93	0.0		1/4	1/4	Spanner	2/2	1	1	0											0	
-24	24	93	93	1.0		1/4	1/4	Chord	2/2	1	1	1/4	1/4	1	264								0	
+24	24	93	93	0.0		1/4	1/4	Spanner	2/2	1	1	0												0
+24	24	93	93	1.0		1/4	1/4	Chord	2/2	1	1	1/4	1/4	1	264									0
 24	24	94	94	0.0		1/2	1/2	Spanner	2/2	1	1	0												
-24	24	94	94	0.0		1/2	1/2	Spanner	2/2	1	1	0												3
-24	24	94	94	1.0		1/2	1/2	Chord	2/2	1	2	1/4	1/4	1	265							27		3
-24	24	95	95	1.0		3/4	3/4	Chord	2/2	1	2	1/4	1/4	1	266									3
+24	24	94	94	0.0		1/2	1/2	Spanner	2/2	1	1	0											3	
+24	24	94	94	1.0		1/2	1/2	Chord	2/2	1	2	1/4	1/4	1	265							27	3	
+24	24	95	95	1.0		3/4	3/4	Chord	2/2	1	2	1/4	1/4	1	266								3	
 24	24	92	92	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	267									
 24	24	93	93	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	268									
 24	24	94	94	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	269							28		
@@ -292,8 +292,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 25	25	96	96	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	273									
 25	25	97	97	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	274									
 25	25	98	98	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	275									
-25	25	99	99	0.0		3/4	3/4	Spanner	2/2	2	1	0											1	
-25	25	99	99	1.0		3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	276								1	
+25	25	99	99	0.0		3/4	3/4	Spanner	2/2	2	1	0												1
+25	25	99	99	1.0		3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	276									1
 26	26	100	100	0.3333333333333333		0	0	Chord	2/2	1	1	1/12	1/8	2/3	277							29		
 26	26	301/3	301/3	0.3333333333333333		1/12	1/12	Chord	2/2	1	1	1/12	1/8	2/3	278							29		
 26	26	302/3	302/3	0.3333333333333333		1/6	1/6	Chord	2/2	1	1	1/12	1/8	2/3	279							29		
@@ -302,7 +302,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 26	26	103	103	0.3333333333333333		3/4	3/4	Chord	2/2	1	1	1/12	1/8	2/3	282							30		
 26	26	310/3	310/3	0.3333333333333333		5/6	5/6	Chord	2/2	1	1	1/12	1/8	2/3	283							30		
 26	26	311/3	311/3	0.3333333333333333		11/12	11/12	Chord	2/2	1	1	1/12	1/8	2/3	284							30		
-26	26	100	100	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	285								1	
+26	26	100	100	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	285									1
 26	26	101	101	0.0		1/4	1/4	Spanner	2/2	2	1	0												
 26	26	101	101	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	286									
 26	26	102	102	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	287									
@@ -360,8 +360,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	volta	mc_onset	mn_onset	
 31	31	121	121	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	339									
 31	31	122	122	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	340									
 31	31	123	123	1.0		3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	341									
-32	32	124	124	0.0		0	0	Spanner	2/2	1	1	0												4
-32	32	124	124	4.0		0	0	Chord	2/2	1	1	1	1	1	342									4
+32	32	124	124	0.0		0	0	Spanner	2/2	1	1	0											4	
+32	32	124	124	4.0		0	0	Chord	2/2	1	1	1	1	1	342								4	
 32	32	124	124	1.0		0	0	Chord	2/2	2	1	1/4	1/4	1	343									
 32	32	125	125	1.0		1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	344									
 32	32	126	126	1.0		1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	345									
