@@ -168,21 +168,21 @@
         "type": "string"
       },
       {
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
         "name": "crescendo_hairpin",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "TextLine",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "bPrks4sdagmMSg",
-    "filepath": "chords/bPrks4sdagmMSg.schema.yaml",
+    "identifier": "4mDWfQjlJCaebw",
+    "filepath": "chords/4mDWfQjlJCaebw.schema.yaml",
     "used_in": "suite_dansante_en_jazz_3_waltz"
   },
   "creator": {
@@ -197,6 +197,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "c6e7577766a38ce2ff56b837cb1ca24ded68b487",
-  "git_tag": "v2.0-18-gc6e7577"
+  "git_revision": "e357e250b52368ae1f85cf9435c2ceeba8152b32",
+  "git_tag": "v2.0-66-ge357e25"
 }
