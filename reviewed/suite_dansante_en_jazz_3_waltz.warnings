@@ -3,10 +3,6 @@ Warnings encountered during the last execution of ms3 review
 
 WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_3_waltz
 	MC 68 is supposed to jump to label segno but there are 2 of them: [5, 68]. Picking the first one.
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_3_waltz
-	Score contains 1 labels that don't (and 90 that do) match the DCML standard:
-	    mc  mn         label harmony_layer
-	17   5   5  bIV7(+9b64}{             1
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '0', 'V7(#119)/vii') ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_3_waltz
 	The label 'V7(#119)/vii' in m. 8, onset 0 (MC 8, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of A.I, it expresses the scale degrees
