@@ -8363,7 +8363,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/vi</name>
+            <name>bI7(^b6+#3#2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8388,7 +8388,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(62b0)/bV/bVI</name>
+            <name>bII(6)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
