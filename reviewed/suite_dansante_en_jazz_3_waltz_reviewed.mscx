@@ -6734,17 +6734,11 @@
           <style>Repeat Text Right</style>
           <minDistance>0.218384</minDistance>
           <offset x="-3.06746" y="-2.10225"/>
-          <text><i>d'al segno</i></text>
+          <text><i>d'al segno </i><font face="ScoreText"></font></text>
           <jumpTo>segno</jumpTo>
           <playUntil>end</playUntil>
           <continueAt></continueAt>
           </Jump>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <offset x="16.871" y="-1.5331"/>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
         <voice>
           <Spanner type="Volta">
             <Volta>

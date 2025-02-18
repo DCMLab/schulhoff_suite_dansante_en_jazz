@@ -1,5 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-WARNING  ms3.Parse.schulhoff_suite_dansante_en_jazz.suite_dansante_en_jazz_3_waltz
-	MC 68 is supposed to jump to label segno but there are 2 of them: [5, 68]. Picking the first one.

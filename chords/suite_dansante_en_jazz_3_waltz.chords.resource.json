@@ -168,21 +168,21 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
         "name": "crescendo_hairpin",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "TextLine",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "bPrks4sdagmMSg",
-    "filepath": "chords/bPrks4sdagmMSg.schema.yaml",
+    "identifier": "4mDWfQjlJCaebw",
+    "filepath": "chords/4mDWfQjlJCaebw.schema.yaml",
     "used_in": "suite_dansante_en_jazz_3_waltz"
   },
   "creator": {
@@ -196,7 +196,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "6b9d95b1e867dfe456b31b5dc7e465dd7a480e28",
-  "git_tag": "v2.0-76-g6b9d95b"
+  }
 }
