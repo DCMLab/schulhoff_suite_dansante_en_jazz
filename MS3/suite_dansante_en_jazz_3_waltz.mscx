@@ -6493,7 +6493,7 @@
           <style>Repeat Text Right</style>
           <minDistance>0.218384</minDistance>
           <offset x="-3.06746" y="-2.10225"/>
-          <text><i>d'al segno</i></text>
+          <text><i>d'al segno </i><font face="ScoreText"/></text>
           <jumpTo>segno</jumpTo>
           <playUntil>end</playUntil>
           <continueAt></continueAt>
