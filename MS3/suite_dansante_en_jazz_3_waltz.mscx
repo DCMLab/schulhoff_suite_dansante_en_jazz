@@ -6498,12 +6498,6 @@
           <playUntil>end</playUntil>
           <continueAt></continueAt>
           </Jump>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <offset x="16.871" y="-1.5331"/>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
         <voice>
           <Spanner type="Volta">
             <Volta>
