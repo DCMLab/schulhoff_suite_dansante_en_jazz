@@ -9,11 +9,11 @@
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <evenHeaderL/>
-      <oddHeaderR/>
+      <evenHeaderL></evenHeaderL>
+      <oddHeaderR></oddHeaderR>
       <evenFooterC>$p
 </evenFooterC>
-      <oddFooterC/>
+      <oddFooterC></oddFooterC>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -6649,7 +6649,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(11)/bV|HC}</name>
+            <name>I7(+42)/bV|HC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6987,7 +6987,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr7</name>
+            <name>#iv7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7401,7 +7401,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(11)/vi</name>
+            <name>bvi%7(+b4)</name>
             </Harmony>
           <Chord>
             <offset x="1.2" y="0"/>
@@ -7516,7 +7516,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7(139)/vi|IAC}</name>
+            <name>i7(+96b4)/bV|HC}</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -7896,7 +7896,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii7(9)</name>
+            <name>vii(#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8259,7 +8259,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(11)/bV|HC}</name>
+            <name>I7(+42)/bV|HC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -8603,7 +8603,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr7</name>
+            <name>#iv7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -9413,7 +9413,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/bI</name>
+            <name>ii%65/bVII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

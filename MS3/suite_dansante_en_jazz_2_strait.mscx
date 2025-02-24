@@ -6467,13 +6467,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="16.5643" y="-7.05515"/>
-                  <o2 x="0.817988" y="3.1697"/>
-                  <o3 x="0.408994" y="2.35172"/>
-                  <o4 x="-16.3598" y="-4.90793"/>
-                  <offset x="0.613491" y="-14.5833"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6586,13 +6579,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="2.35172" y="3.27195"/>
-                  <o2 x="0.408994" y="-3.27195"/>
-                  <o3 x="0.408994" y="-3.27195"/>
-                  <o4 x="1.53373" y="4.90793"/>
-                  <offset x="-1.32923" y="-12.8833"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7447,10 +7433,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o4 x="-0.306746" y="1.02249"/>
-                  <offset x="0.102249" y="-0.511243"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7958,9 +7940,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.204497"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -8200,7 +8179,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VIM7(1311)</name>
+            <name>vi7(+b64b2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8353,7 +8332,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VIM7(13119)</name>
+            <name>vi7(+b64b2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8452,7 +8431,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(#11#9)/#VI</name>
+            <name>bIV7(+42)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9145,7 +9124,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VIM7(13119)</name>
+            <name>vi7(+b64b2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9309,7 +9288,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VI+7(13119)</name>
+            <name>vi7(+b64b2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9624,7 +9603,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/#VI</name>
+            <name>vi7(+#7#54)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -9786,7 +9765,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(b106){</name>
+            <name>IM7(+#6^b3^2){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9833,7 +9812,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/#VI</name>
+            <name>bIV7(+2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9897,7 +9876,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/ii</name>
+            <name>V7(+62)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10516,7 +10495,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/#VI</name>
+            <name>bIV7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10569,7 +10548,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(b106){</name>
+            <name>IM7(+#6^b3^2){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10628,7 +10607,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/#VI</name>
+            <name>bIV7(+2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10691,7 +10670,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/ii</name>
+            <name>V7(+62)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10962,7 +10941,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11068,7 +11047,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/#VI</name>
+            <name>bIV7(+6^4^b2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11244,7 +11223,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/#VI</name>
+            <name>bIV7(+6^4^b2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11626,11 +11605,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.102249" y="-12.0653"/>
-                  <o3 x="-0.204497" y="-0.817988"/>
-                  <o4 x="-0.408994" y="-0.71574"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -11691,11 +11665,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.613491" y="-12.5766"/>
-                  <o3 x="0" y="-1.22698"/>
-                  <offset x="-0.306746" y="-0.511243"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11715,11 +11684,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.930448" y="-3.73822"/>
-                <off2 x="-0.722589" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -11768,11 +11732,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.613491" y="-8.48663"/>
-                  <o3 x="0.204497" y="-1.22698"/>
-                  <o4 x="0" y="-1.12473"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11826,11 +11785,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.613491" y="-8.58887"/>
-                  <o3 x="0" y="-2.04497"/>
-                  <o4 x="0.102249" y="-1.02249"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11910,7 +11864,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(b106)}{</name>
+            <name>#VI%7(+9#4)}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11953,7 +11907,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/#VI</name>
+            <name>bIV7(+2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12021,7 +11975,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/ii</name>
+            <name>V7(+62)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12420,9 +12374,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-1.02249"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
