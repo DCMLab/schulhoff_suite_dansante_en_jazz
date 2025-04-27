@@ -12,6 +12,11 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/schulhoff_suite_dansante_en_jazz/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # Erwin Schulhoff – Suite dansante en jazz (A corpus of annotated scores)
 
 Austro-Czech composer Erwin Schulhoff had visions of a musical revolution. Inspired both by the absurdist aesthetic
@@ -88,7 +93,7 @@ Please [create an issue](https://github.com/DCMLab/schulhoff_suite_dansante_en_j
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Erwin Schulhoff – Suite dansante en jazz (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997098
+> Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
 
 ## License
 
